@@ -126,7 +126,7 @@
 	<repositories>
 		<repository>
 			<id>info-bliki-repository</id>
-			<url>http://gwtwiki.googlecode.com/svn/maven-repository/</url>
+			<url>https://gwtwiki.googlecode.com/svn/maven-repository/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
